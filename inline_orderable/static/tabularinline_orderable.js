@@ -43,7 +43,7 @@
         };
     
     $.fn.tabularInlineOrder.defaults = {
-            'inlineItemsSel': 'tbody tr'
+            'inlineItemsSel': 'tbody tr.form-row'
         };
     
     
